@@ -1,0 +1,9 @@
+flask
+pillow
+transformers
+torch
+torchvision
+torchaudio
+groq
+python-dotenv
+requests
